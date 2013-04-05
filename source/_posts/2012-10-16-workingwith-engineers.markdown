@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-I’m currently 37,000 feet over Lake Michigan, on my way to New York. It's been an incredible ride this past year. On the 28th of October, it will mark the one-year anniversary of me leaving my cushy corporate job and embarking on a journey to staruplandia. Things have been going great, and our team has been growing. 
+I’m currently 37,000 feet over Lake Michigan, on my way to New York. It's been an incredible ride this past year. On the 28th of October, it will mark the one-year anniversary of me leaving my cushy corporate job and embarking on a journey to startuplandia. Things have been going great, and our team has been growing. 
 
 <!--more-->
 

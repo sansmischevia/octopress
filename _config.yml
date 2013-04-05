@@ -5,7 +5,7 @@
 url: http://sansmischevia.github.com
 title: TIL bryant ... 
 subtitle: a collection of musings on programming, entrepreneurship, and life
-about: I'm currently the CTO of <a href="http://www.vungle.com">Vungle</a>. I like to play my guitars, <a href="http://techshop.ws/take_classes.html?storeId=4">weld</a> random pieces of metal, and code for maximum damage.
+about: I'm a programmer, a hacker, and I happen to build companies along the way. I'm a co-founder of <a href="http://webflow.com">webflow</a>, and prior to that I was the CTO of <a href="http://www.vungle.com">Vungle</a>. I like to play my guitars, <a href="http://techshop.ws/take_classes.html?storeId=4">weld</a> random pieces of metal, and code for maximum damage.
 author: bryant chou
 simple_search: https://www.google.com/search?q=bryant+chou
 description: haha
@@ -99,5 +99,5 @@ google_analytics_tracking_id:
 # Facebook Like
 facebook_like: true
 
-linkedin_user: http://www.linkedin.com/pub/bryant-chou/5/9/4b4/
+linkedin_user: bryant-chou
 instagram_user: brryant

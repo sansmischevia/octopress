@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Onward!"
+date: 2013-04-05 16:06
+comments: false
+categories: 
+---
+
+Today marks my last day at Vungle. It has been quite a ride. Now, off to new and exciting things!
+
+<!--more-->
+
+Moreover, I think the company itself is in prime position to take what I and the team have built for them, and become a leader in the mobile advertising space. 
+
+Highlights:
+
+* Working out of AngelPad and meeting some amazing entrepreneurs
+* Looking for our first office and lucking out on Adku’s old office on 300 Beale St.
+* Learning that it’s almost impossible being a full-time engineer and being a good CTO
+* Being on [web TV](http://mashable.com/2012/05/30/mature-startup/) was fun. 
+* Hiring and working with the best engineers on the planet. Much love [ben1mal](https://twitter.com/ben1mal) and raydog!
+
+Tech Highlights:
+
+* You *can* build a web + mobile stack that handles 250MM API requests a day with three engineers - invest in developer tools early and often. 
+* [redis](http://redis.io/) is a beast. period. 
+* Learning that node 0.6 performs better than node 0.8 (both in memory consumption and latency)
+* [node.js](nodejs.org) is great at rapid prototyping as well as running handling large amounts of production traffic.
+* [mongolab](mongolab.com) is a fantastic partner if you don’t want to worry about your database uptime/maintenance/migration
+* [redshift](http://aws.amazon.com/redshift/) makes MapReduce/Hive/Pig obsolete. 
+* [dynamodb](http://aws.amazon.com/dynamodb/) is a must-use if it fits your data access pattern. 
+
+What's next? 
+
+It's time I build another company from the ground up. I'm excited to annouce that I will be joining my close friend and former coworker Vlad on [webflow.com](http://webflow.com/). We'll be launching by the end of summer so stay tuned! Onward!
+
+<!--
+- ..--- -.-- --. -.-- .-- -..- ... .. .... .-. --- .- .-- ..... -. -.-. -.-- .-- --. ... ... -.. - .. --. .---- ...- -.-. ...-- --.- --. --.. -..- .... .--- .- -..- .-. .-.. --.. -.-. -... .... -.-- -- ----. .---- -.. -.-. -... ...-- -... ...-- .--- .-. .- .-- ..... -. .. .... -.. .--. -.. --. --. --. -.-. --. ...- ...- -.-. --. -..- .-..  .. .... .-. --- -.-- -..- --.- --. -.-- -..- .--- .-.. .. --. -. ...- -... -..- -... .-.. -.. --. ...- ..- -.. -.-. .-- --. -... --. ----. ..... -.-- .-- .-- ... .. --. ..-. ..- --.. -.-. -... ...-- -... ..--- ....- -. -.. -.-. -... .. -.-- .-- -. .-. -.-. ...-- .-. .... -.-- .. -... ----- .- --. ...- .--. -.-. .. -... .-.. -... -..- -... ...  -... ...-- .-.. .-.. --.. -..- -- ..-
+-->
+
