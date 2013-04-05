@@ -1,4 +1,4 @@
-.lock
+*.lock
 .bundle
 .DS_Store
 .sass-cache
